@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.devsu.apirest</groupId>
-    <artifactId>DevsuApiRest</artifactId>
+    <artifactId>CustomerDevsu</artifactId>
     <version>0.0.1</version>
     <name>DevsuApiRest</name>
     <description>DevsuApiRest</description>
